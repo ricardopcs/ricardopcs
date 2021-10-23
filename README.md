@@ -1,10 +1,10 @@
-## E aí! Blz Pura!! Aqui é o Ricardo P C 👋 
+## E aí! Blz Pura!! Aqui é Ricardo P C 👋 
 ##### 🧠"Seja um investimento para a Humanidade" (Ricardo P C)
 15+ de Esperiência em Informática (Já andei com 💾Disquete na mão!)  
 <br>
 
 ## 🤔Linguagens: 
-Java |JavaScript | PHP | CSS | Python | C | C++ | C# <br> <a gente mexe com database viu!>
+Java |JavaScript | PHP | CSS | Python | C | C++ | C# <br> <a gente mexe com database, viu!>
 
 ## 🔭 Formação:
 -> Montagem e Manutenção de Computadores <br>
