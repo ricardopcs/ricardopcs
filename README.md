@@ -31,7 +31,7 @@ Java | JavaScript | PHP | CSS | Python | C | C++ | C# <br> <a gente mexe com dat
 -> Manejo de plataformas Windows, Linux (MacOS também neh!) <br>
 -> Implatanção de Servidores (Windows/Linux) <br>
 -> Instalação e Configuração de Firewal (Pfsense/Zyxel/Kerio_Control/SophosNG) <br>
--> Configuração de Roters (Mikrotik, Cisco, Ubiquite...) <br>
+-> Configuração de Routers (Mikrotik, Cisco, Ubiquite...) <br>
 -> Configuração de AP,Wifi_Social, Páginas de Autenticação (Hotspot) <br>
 -> Formatação e Otimização de OS <br>
 -> Montagem de Laborátorios em Instituições Educacionais <br>
