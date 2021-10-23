@@ -15,9 +15,9 @@ C# <br>
 
 ## 🔭 Formação:
 -> Montagem e Manutenção de Computadores <br>
--> Licienciatura em Filosofia <br>
+-> Licenciatura em Filosofia <br>
 -> Licenciatura em Informática (em andamento) <br>
--> Licennciatura em Letras Inglês (em andamento) <br>
+-> Licenciatura em Letras Inglês (em andamento) <br>
 -> Especialização em Redes de Computadores <br>
 -> Especialização Gestão Administração Escolar <br>
 
@@ -32,7 +32,7 @@ C# <br>
 -> Criação de Sites, Blogs... <br>
 -> Gerenciamento de Redes <br>
 -> Compartilhamento de Arquivos <br>
--> Instalação de Impressora via Rede <br>
+-> Instalação de Impressoras via Rede <br>
 -> Backup Cloud <br>
 -> Cabeamento estruturado <br>
 -> Manejo de plataformas Windows, Linux (MacOS também neh!) <br>
@@ -45,41 +45,27 @@ C# <br>
 
 
 ## 🧮 Habilidades:
--> Freelancer T.i - Divina Providência, PROMULT, Pop3, LaserTec, Verhaw, New Blend, Instituto Laureate, Facomp
-<br>
--> Freelancer Músico - Professor de violão, baixo, guitarra, percussao, teclado, cavaquinho, viola e canto.
-<br>
--> Freelancer Orientador - TCC, Artigos, Textos, Projetos Acadêmicos e Correção Ortog (ABNT)
-<br>
--> Freelancer Eletrônica - Reparo de Placas de notebook/desktop/tvs, Reparo em Cameras IP, Roteadores...
-<br>
--> Freelancer ⚡ Eletricista - Instação de Tomadas, Alarmes, Passagem de fiação...
-<br>
+-> Freelancer T.i - Divina Providência, PROMULT, Pop3, LaserTec, Verhaw, New Blend, Instituto Laureate, Facomp. <br>
+-> Freelancer Músico - Professor de violão, baixo, guitarra, percussao, teclado, cavaquinho, viola e canto. <br>
+-> Freelancer Orientador - TCC, Artigos, Textos, Projetos Acadêmicos e Correção Ortog (ABNT) <br>
+-> Freelancer Eletrônica - Reparo de Placas de notebook/desktop/tvs, Reparo em Cameras IP, Roteadores... <br>
+-> Freelancer ⚡ Eletricista - Instalação de Tomadas, Alarmes, Passagem de fiação... <br>
 
 ## 📚 Livros
--> O mundo de Sophia (Jostein Gaarder)
-<br>
--> Como Conquistar Clientes e Mantê-los Para Sempre (Michael Leboeuf)
-<br> 
--> Entre o Passado e o Futuro (Hannah Arendt)
-<br> 
--> A Bíblia Sagrada - Exegese
-<br>
+-> O mundo de Sophia (Jostein Gaarder) <br>
+-> Como Conquistar Clientes e Mantê-los Para Sempre (Michael Leboeuf) <br> 
+-> Entre o Passado e o Futuro (Hannah Arendt) <br> 
+-> A Bíblia Sagrada - Exegese <br>
 
 ## 🎼Músicas
--> Coleção (Cassiano)
-<br>
--> Linha do equador (Caetano Veloso / Djavan)
-<br>
--> Anjos (O Rappa)
+-> Coleção (Cassiano) <br>
+-> Linha do equador (Caetano Veloso / Djavan) <br>
+-> Anjos (O Rappa) <br>
 
 ## 🎥Filmes
--> A vida é Bela (Diretor: Roberto Benigni)
-<br>
--> O Primeiro Mentiroso (Direção: Ricky Gervais; Matthew Robbinson)
-<br>
--> O Corcunda de Notre Dame (Direção 	Gary Trousdale & Kirk Wise
-<br>
+-> A vida é Bela (Diretor: Roberto Benigni) <br>
+-> O Primeiro Mentiroso (Direção: Ricky Gervais; Matthew Robbinson) <br>
+-> O Corcunda de Notre Dame (Direção 	Gary Trousdale & Kirk Wise) <br>
 -> O Auto da Compadecida (Diretor: Guel Arraes / Autor: Ariano Suassuna)
 
 
