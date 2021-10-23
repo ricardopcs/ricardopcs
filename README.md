@@ -4,14 +4,7 @@
 <br>
 
 ## 🤔Linguagens: 
-Java <br>
-JavaScript <br>
-PHP <br>
-CSS <br>
-Python <br>
-C <br>
-C++ <br>
-C# <br>
+Java |JavaScript | PHP | CSS | Python | C | C++ | C# <br> <a gente mexe com database viu!>
 
 ## 🔭 Formação:
 -> Montagem e Manutenção de Computadores <br>
