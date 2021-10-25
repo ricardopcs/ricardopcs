@@ -4,7 +4,7 @@
 <br>
 
 ## 🤔Linguagens: 
-Java | JavaScript | PHP | CSS | Python | C | C++ | C# <br> <a gente mexe com database, viu!>
+Java | JavaScript | PHP | CSS | Python | HTML | C | C++ | C# <br> <a gente mexe com database, viu!>
 
 ## 🔭 Formação:
 -> Montagem e Manutenção de Computadores <br>
