@@ -1,4 +1,4 @@
-## E aí! Blz Pura!! Aqui é Ricardo P C 👋 
+## E aí, blz Pura!! Aqui é Ricardo P C 👋 
 ##### 🧠"Seja um investimento para a Humanidade" (Ricardo P C)
 15+ de Esperiência em Informática (Já andei com 💾Disquete na mão!)  
 <br>
