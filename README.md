@@ -18,7 +18,6 @@ Java | JavaScript | PHP | CSS | Python | C | C++ | C# <br> <a gente mexe com dat
 -> Inglês (Fala, Leitura e Escrita) <br>
 -> Espanhol (Fala, Leitura e Escrita) <br>
 -> Português (Fala, Leitura e Escrita) <br>
--> Latim (Fala, Leitura e Escrita) <br>
 
 
 ## 💡 Atividades Pro:
