@@ -9,8 +9,8 @@ Java | JavaScript | PHP | CSS | Python | HTML | C | C++ | C# <br> <a gente mexe 
 ## 🔭 Formação:
 -> Montagem e Manutenção de Computadores <br>
 -> Licenciatura em Filosofia <br>
--> Licenciatura em Informática (em andamento) <br>
--> Licenciatura em Letras Inglês (em andamento) <br>
+-> Licenciatura em Letras Português-Inglês <br>
+-> Licenciatura em Física (em andamento) <br>
 -> Especialização em Redes de Computadores <br>
 -> Especialização Gestão Administração Escolar <br>
 
