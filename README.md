@@ -1,6 +1,6 @@
 ## E aí, blz Pura!! Aqui é Ricardo P C 👋 
 ##### 🧠"Seja um investimento para a Humanidade" (Ricardo P C)
-15+ de Esperiência em Informática (Já andei com 💾Disquete na mão!)  
+18+ de Esperiência em Informática (Já andei com 💾Disquete na mão!)  
 <br>
 
 ## 🤔Linguagens: 
@@ -34,6 +34,7 @@ Java | JavaScript | PHP | CSS | Python | HTML | C | C++ | C# <br> <a gente mexe 
 -> Configuração de AP,Wifi_Social, Páginas de Autenticação (Hotspot) <br>
 -> Formatação e Otimização de OS <br>
 -> Montagem de Laborátorios em Instituições Educacionais <br>
+-> Instalação de cameras (sistema de monitoramento)
 
 
 ## 🧮 Habilidades:
